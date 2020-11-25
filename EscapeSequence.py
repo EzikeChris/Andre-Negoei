@@ -1,0 +1,1 @@
+weather = "it\'s \"kind of\" sunny \n"
